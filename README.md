@@ -76,6 +76,10 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design WhatsApp](https://www.youtube.com/watch?v=vvhC64hQZMk)
 - [Design Facebook](https://www.youtube.com/watch?v=9-hjBGxuiEs)
 - [Design Twitter](https://www.youtube.com/watch?v=wYk0xPP_P_8)
+- [Design BookMyShow](https://www.geeksforgeeks.org/design-bookmyshow-a-system-design-interview-question)
+
+    --[BookMyShow-2](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-movie-ticket-booking-system.md)  
+--[BookMyShow-3](https://astikanand.github.io/techblogs/high-level-system-design/design-bookmyshow)
 - [Design Reddit](https://www.youtube.com/watch?v=KYExYE_9nIY)
 - [Design Netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
 - [Design Youtube](https://www.youtube.com/watch?v=jPKTo1iGQiE)
@@ -95,6 +99,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 - [Design a Digital Wallet](https://www.youtube.com/watch?v=MCKdixWBnco)
+- [Design a log aggregator like Splunk](https://www.google.com/search?q=log+aggregator+service+like+splunk&rlz=1C5GCCM_en&oq=log+aggregator+service+like+splunk+&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORifBTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRifBdIBCDgwODdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 ### Hard
 - [Design Slack](https://systemdesign.one/slack-architecture/)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
@@ -113,6 +118,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
 
 ## Must-Read Engineering Articles
+- [Machine coding round - Easy](https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca)
 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Building In-Video Search at Netflix](https://netflixtechblog.com/building-in-video-search-936766f0017c)
 - [How Canva scaled Media uploads from Zero to 50 Million per Day](https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/)
@@ -121,6 +127,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Real time messaging at Slack](https://slack.engineering/real-time-messaging/)
 
 ## Books
+- [Level 1 - System design in 21 days](src/System%20design%2021%20days.pdf)
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
 - [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
 
